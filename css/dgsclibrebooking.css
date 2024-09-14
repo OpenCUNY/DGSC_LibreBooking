@@ -1,0 +1,64 @@
+table.reservations td.resdate {
+	background-color: #185299;
+}
+
+table.reservations tr.today td.resdate {
+	background-color: #359f2e;
+}
+
+.btn-primary {
+    background-color: #185299;
+    border-color: #185299;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+  background-color: #359f2e;
+  border-color: #359f2e;
+}
+
+a, a:visited {
+    color: #185299;
+}	
+
+a:hover {
+	color: #359f2e;
+}
+
+.btn-link {
+	color: #185299;
+}
+
+.btn-link:active, .btn-link:focus, .btn-link:hover {
+    color: #359f2e;
+}
+
+.btn-success {
+	background-color: #359f2e;
+}
+
+.btn-success.active, .btn-success.focus, .btn-success:active, .btn-success:focus, .btn-success:hover {
+	background-color: #185299;
+}
+
+.change-date.btn-link.btn-success
+{
+	background-color	: transparent;
+}
+
+.reservable.hilite, #reservations .ui-selecting {
+	background-color: #359f2e;
+}
+
+.fc-day-header {
+    background-color: #185299;
+}
+
+.fc-day-header span {
+    color: #ffffff;
+}
+
+.fc-unthemed td.fc-today {
+    background: #185299;
+}
