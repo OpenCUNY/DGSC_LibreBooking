@@ -144,7 +144,7 @@
 
                 <div class="col-xs-12 col-sm-6" id="organization">
                     <div class="form-group">
-                        <label class="reg" for="txtOrganization">{translate key="Organization"}</label>
+                        <label class="reg" for="txtOrganization">{translate key="Organization"} (Leave empty if not applicable)</label>
                         <input type="text" id="txtOrganization" {formname key="ORGANIZATION"} class="form-control"
                                size="20"
                                 {if $RequireOrganization}required="required"
@@ -157,7 +157,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-6" id="position">
                     <div class="form-group">
-                        <label class="reg" for="txtPosition">{translate key="Position"}</label>
+                        <label class="reg" for="txtPosition">{translate key="Position"} (Leave empty if not applicable)</label>
                         <input type="text" id="txtPosition" {formname key="POSITION"} class="form-control"
                                size="20" {if $RequirePosition}required="required"
                             data-bv-notempty="true"
