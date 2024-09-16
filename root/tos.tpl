@@ -26,7 +26,6 @@
 By submitting a DGSC room reservation request, you consent to the collection and use of your personal information, including your name and contact details, solely for processing your reservation. This information will be used for reviewing requests, communicating decisions, and updating the shared public calendar with approved events (only non-personal information will be displayed). Your data may be retained for up to one academic year for purposes solely related to processing and resolving room reservation requests. For any questions or concerns, please contact <a href="mailto:dgsc@cunydgsc.org">dgsc@cunydgsc.org</a>.
 </p>
 
-{$TermsContent|nl2br}
 </div>
 
 {include file='globalfooter.tpl'}
